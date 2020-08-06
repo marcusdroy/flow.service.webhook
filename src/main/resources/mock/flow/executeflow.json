@@ -1,0 +1,30 @@
+{
+    "creationDate": "2019-12-04T17:55:32.367+0000",
+    "id": "5de7f314e638b70001fa9c84",
+    "initiatedByUserId": "5cedb45a2ce2340001ca1fc9",
+    "initiatedByUserName": "Marcus Roy",
+    "workflowId": "5dd74d0976df2d000110e52a",
+    "workflowRevisionid": "5de1d44ee638b70001fa8a13",
+    "trigger": "manual",
+    "properties": [],
+    "steps": [
+        {
+            "activityId": "5de7f314e638b70001fa9c84",
+            "duration": 0,
+            "flowTaskStatus": "notstarted",
+            "id": "5de7f314e638b70001fa9c8b",
+            "order": 1,
+            "taskId": "513cde12-4288-4b1d-a79a-51fb23f8e1c0",
+            "taskName": "Run Custom Task 1"
+        },
+        {
+            "activityId": "5de7f314e638b70001fa9c84",
+            "duration": 0,
+            "flowTaskStatus": "notstarted",
+            "id": "5de7f314e638b70001fa9c8f",
+            "order": 2,
+            "taskId": "1a4c6b9e-db2e-4149-9603-9957be358138",
+            "taskName": "Sleep 1"
+        }
+    ]
+}
